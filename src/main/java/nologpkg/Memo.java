@@ -4,7 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * <a href="mailto:nathanael4ever@gmail.com">Nathanael Yang</a> 4/13/2017 7:36 AM
+ * <a href="0919starttowork@gmail.com">Kevin</a> 4/13/2017 6:29 AM
  */
 public class Memo {
     private static final Logger logger = LoggerFactory.getLogger(Memo.class);
